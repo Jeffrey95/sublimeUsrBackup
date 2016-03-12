@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+#include <cstdio>
+#include <cstdlib>
+#include <string.h>
+#include <string>
+#include <math.h>
+#include <algorithm>
+#include <iostream>
+#include <queue>
+#include <stack>
+#include <map>
+#include <set>
+typedef long long ll;
+using namespace std;
+
+int main()
+{
+	${1}
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>#init</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
